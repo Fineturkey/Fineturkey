@@ -1,34 +1,37 @@
 ```text
-$ whoami
-
-                ...     .                       Fineturkey@github
-          :--=++=--=====-*+----=-::::           ------------------------------------
-        =#+:..                 .:-::=%          Name       : Eugene
-       %+                    .       #          Focus      : Software development
-      :*          .%        #*      :+          Languages  : C++, Python
-      .+           =@.     +@       .%: --.     Database   : SQLite
-      :+  *=+=-:.   :.     +    .:---+@%=-@     Editor     : VS Code
-  ..  %:  %*...:=++-:%-  %@:=++=-::-*@@- %:     OS         : Windows
- =%**#@@%#@@@@@@*-=%@@-::-@*-----%@%@@:.%:
-  +*%@ .-@% *@@@@@@@@@##%@@+:@@@@@@@@.:@:       ~/interests
-   :@@.  +@*------@:=@   @@:  =%@%#@# +*          algorithms & data structures
-     =%   -*#%%#%%@ #@   #@@@%**#%@@+ =-          distributed systems
-      *:            @#   :@ ..:::.    *:          practical applications
-      +:            %@    @-          %
-      +.            @*    @+         :#         ~/projects
-      +=           @@+:.:=@+         +-           comp-programming/
-       %:         @@*%@#@##@:        *.             AtCoder, Codeforces, Kattis
-       .#         :        . .#.     %
-        %     +%   :+#*=-+*+- :@=   +=            bloomfilter/
-        #.    * =%#*=.:=+-.:*%#.*   %               distributed joins with
-        -#    .@@#************@@=  #-               Bloom filters
-         +#  *%+@.          :*%-**#+
-          -%::  :%#=:..:=+##*-  :@-             ~/currently
-           .%-    :=*@@@#:     *#                 building projects
-             +#=    #+:-++   -%-                  working through problems
-               +#:        -**=                    understanding the trade-offs
-                .+*=:..:-#+.
-                   :-----                       $ _
+┌──────────────────────────────────────────────────────────────┐
+│  ●  ●  ●                  eugene@github: ~                   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  eugene@github:~$ whoami                                     │
+│                                                              │
+│  Eugene                                                      │
+│  Software development · Algorithms · Distributed databases   │
+│                                                              │
+│  eugene@github:~$ cat stack.conf                             │
+│                                                              │
+│  languages ......... C++, Python                             │
+│  database .......... SQLite                                  │
+│  editor ............ VS Code                                 │
+│  os ................ Windows                                 │
+│                                                              │
+│  eugene@github:~$ ls projects/                               │
+│                                                              │
+│  comp-programming/                                           │
+│    └── AtCoder, Codeforces & Kattis                          │
+│                                                              │
+│  bloomfilter/                                                │
+│    └── Bloom filters & distributed joins                     │
+│                                                              │
+│  eugene@github:~$ cat interests.txt                          │
+│                                                              │
+│  > Data structures & problem solving                         │
+│  > Building practical applications                           │
+│  > Understanding how systems work                            │
+│                                                              │
+│  eugene@github:~$ _                                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-[repos](https://github.com/Fineturkey?tab=repositories) / [comp-programming](https://github.com/Fineturkey/comp-programming) / [bloomfilter](https://github.com/Fineturkey/bloomfilter)
+[repositories](https://github.com/Fineturkey?tab=repositories) · [comp-programming](https://github.com/Fineturkey/comp-programming) · [bloomfilter](https://github.com/Fineturkey/bloomfilter)
